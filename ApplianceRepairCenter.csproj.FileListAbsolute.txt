@@ -1,0 +1,15 @@
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\bin\Debug\net8.0\ApplianceRepairCenter.exe
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\bin\Debug\net8.0\ApplianceRepairCenter.deps.json
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\bin\Debug\net8.0\ApplianceRepairCenter.runtimeconfig.json
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\bin\Debug\net8.0\ApplianceRepairCenter.dll
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\bin\Debug\net8.0\ApplianceRepairCenter.pdb
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\obj\Debug\net8.0\ApplianceRepairCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\obj\Debug\net8.0\ApplianceRepairCenter.AssemblyInfoInputs.cache
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\obj\Debug\net8.0\ApplianceRepairCenter.AssemblyInfo.cs
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\obj\Debug\net8.0\ApplianceRepairCenter.csproj.CoreCompileInputs.cache
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\obj\Debug\net8.0\ApplianceRepairCenter.dll
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\obj\Debug\net8.0\refint\ApplianceRepairCenter.dll
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\obj\Debug\net8.0\ApplianceRepairCenter.pdb
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\obj\Debug\net8.0\ApplianceRepairCenter.genruntimeconfig.cache
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\obj\Debug\net8.0\ref\ApplianceRepairCenter.dll
+C:\Users\Zaid\Desktop\ApplianceRepairCenter\ApplianceRepairCenter\obj\Debug\net8.0\Applianc.4884F6E0.Up2Date
